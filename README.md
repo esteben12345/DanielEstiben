@@ -19,5 +19,5 @@ SQL | Node.js | React | Next.js | AWS
 - Prácticas de **ciberseguridad** con SIEM y Elastic Stack  
 
 ## 📫 Contacto
-- LinkedIn: [tu enlace aquí]  
-- Email: [tu correo aquí]  
+- LinkedIn: linkedin.com/in/daniel-estiben-cuero-orobio-0787362a6/   
+- Email: yerlie97@gmail.com
